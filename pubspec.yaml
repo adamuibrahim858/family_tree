@@ -1,5 +1,5 @@
-name: family_tree
-description: "A new Flutter project."
+name: family_tree_mobile
+description: "Salman Family – a mobile family-tree application."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

@@ -1,6 +1,6 @@
 // This is a basic Flutter widget test.
 import 'package:flutter_test/flutter_test.dart';
-import 'package:family_tree/main.dart';
+import 'package:family_tree_mobile/main.dart';
 
 void main() {
   testWidgets('Salman Family App smoke test', (WidgetTester tester) async {
